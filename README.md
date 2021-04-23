@@ -1,5 +1,5 @@
-# api-mahi
- API do trabalho de conclusão de curso mahi
+# backend-mahi
+Backend do trabalho de conclusão de curso mahi
  
 ## Tecnologias utilizadas
  node
